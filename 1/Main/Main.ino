@@ -37,7 +37,7 @@ void loop() {
 
     for(int k=0;k<5;k++){
       Serial.print(MatA[0][k]);
-      Serial.print("\t");
+      Serial.print(" ");
     }
     Serial.println(" ");
   delay(100);
