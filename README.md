@@ -8,6 +8,8 @@ OpenCV
 nltk
 Pyaudio
 flac
+numpy
+pyserial
 
 Speech to Text
 https://electronoobs.com/eng_arduino_tut171.php
